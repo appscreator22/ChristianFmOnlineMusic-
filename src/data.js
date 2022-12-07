@@ -76,12 +76,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Perspective",
-            artist: "Barnes Blvd.",
-            cover: "https://chillhop.com/wp-content/uploads/2019/09/5dec57f342128aac26584502148c6415dce9a1e5-1024x1001.jpg",
+            name:"Gospel premier",
+            artist: "Gospelpremier",
+            cover: "https://img.freepik.com/vector-gratis/texto-plano-dia-mundial-radio_23-2148825802.jpg",
             id: uuidv4(),
             color: ["#FDE1A9", "#A46874"],
-            audio: "https://mp3.chillhop.com/serve.php/?mp3=8046",
+            audio: "https://audio-edge-es6pf.mia.g.radiomast.io/31ecbab9-e64f-44a3-8afa-fe58745e82c8",
             active: false,
         },
     ];
